@@ -1,5 +1,7 @@
 github.com/bwmarrin/discordgo v0.25.1-0.20220630214929-f446e069a1d9 h1:y4F9FTA6nYEHWKuagDPd8OcEKGg/WeGZnTBzxTk8NMk=
 github.com/bwmarrin/discordgo v0.25.1-0.20220630214929-f446e069a1d9/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
+github.com/bwmarrin/discordgo v0.28.1 h1:gXsuo2GBO7NbR6uqmrrBDplPUx2T3nzu775q/Rd1aG4=
+github.com/bwmarrin/discordgo v0.28.1/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
 github.com/corentings/UCA-discord-bot v0.0.0-20220710154241-48d9e9a66b41 h1:JBSopP802U0cdzUWDDS6F7G+yq89xD2/1a2YgkZcIDk=
 github.com/corentings/UCA-discord-bot v0.0.0-20220710154241-48d9e9a66b41/go.mod h1:Dssrh4wJADeO4uoRmpSpRV42igAXLrt+ZNUc4xZrcdA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

@@ -3,7 +3,7 @@ module github.com/corentings/stouuf-bot
 go 1.18
 
 require (
-	github.com/bwmarrin/discordgo v0.25.1-0.20220630214929-f446e069a1d9
+	github.com/bwmarrin/discordgo v0.28.1
 	github.com/joho/godotenv v1.4.0
 	github.com/stretchr/testify v1.6.1
 	go.mongodb.org/mongo-driver v1.9.1
